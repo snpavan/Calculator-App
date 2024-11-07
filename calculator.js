@@ -1,4 +1,3 @@
-
 let value = ''; 
 
 function appendDisplay(value) {
